@@ -1,0 +1,1 @@
+{"version":1,"defects":{"RobotTest::testValidateWithValidPosition":8,"RobotTest::testValidateWithInvalidPosition":7},"times":{"RobotTest::testValidateWithValidPosition":0.002,"RobotTest::testValidateWithInvalidPosition":0.001}}

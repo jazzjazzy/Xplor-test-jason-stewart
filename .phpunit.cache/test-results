@@ -1,0 +1,1 @@
+{"version":1,"defects":{"RobotTest::testValidateWithValidPosition":7,"RobotTest::testMoveAcrossTable":7},"times":{"RobotTest::testValidateWithValidPosition":0.001,"RobotTest::testMoveAroundPerimeterPosition":0.001,"RobotTest::testMoveAcrossTable":0}}
